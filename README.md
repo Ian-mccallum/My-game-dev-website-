@@ -1,2 +1,3 @@
 # My-game-dev-website-
-For my company
+Gamerglitched.com
+Built by Ian McCallum
